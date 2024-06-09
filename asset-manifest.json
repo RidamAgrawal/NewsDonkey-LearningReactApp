@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsDonkey-LearningReactApp/static/css/main.f855e6bc.css",
+    "main.js": "/NewsDonkey-LearningReactApp/static/js/main.647c211f.js",
+    "static/js/453.08c78f33.chunk.js": "/NewsDonkey-LearningReactApp/static/js/453.08c78f33.chunk.js",
+    "index.html": "/NewsDonkey-LearningReactApp/index.html",
+    "main.f855e6bc.css.map": "/NewsDonkey-LearningReactApp/static/css/main.f855e6bc.css.map",
+    "main.647c211f.js.map": "/NewsDonkey-LearningReactApp/static/js/main.647c211f.js.map",
+    "453.08c78f33.chunk.js.map": "/NewsDonkey-LearningReactApp/static/js/453.08c78f33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.647c211f.js"
+  ]
+}
